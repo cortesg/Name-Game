@@ -1,0 +1,7 @@
+pearl = input()
+earl = (pearl[1:-1])
+l = (pearl[-1])
+print(pearl + ', ' + pearl + ', ' + 'bo-b' + earl + l)
+print('banana-fana', 'fo-f' + earl + l)
+print('fee-fi-mo-m' + earl + l)
+print(pearl + '!')
